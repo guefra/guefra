@@ -14,15 +14,28 @@ First I started learning Python a bit but soon switched to C# and Unity. After t
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F4f%2FCsharp_Logo.png&sp=1674388770T306dad567ddd10ca411e2e2eab1b8a468734fc8a8ec91a3aa3add2c1e2b8744a" width="36" height="36" alt="C#" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
   </a>
   <a href="https://www.unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpreview.redd.it%2Ftu3gt6ysfxq71.png%3Fauto%3Dwebp%26s%3D10ab55d9dc09e7ed6ea59bd5916800a5272d5969&sp=1674388747Te74cc77324d1a58212819688ba6e87a64c6356838a09a9a48b0742bc2f2d3fbc" width="36" height="36" alt="Unity" />
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" />
   </a>
   <a href="https://www.rainmeter.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fd4.alternativeto.net%2F8Z7Xa1VOeplUZ-Kfcp8Fx-Im1sYPqMyvvshwqJLcSAw%2Frs%3Afill%3A280%3A280%3A0%2Fg%3Ace%3A0%3A0%2FYWJzOi8vZGlzdC9pY29ucy9yYWlubWV0ZXJfODY3NDcucG5n.png&sp=1674388603T5056f834e7a412d73f43d3a7aa3d7663b8c875126fa8a15a56a13ee18bc079c9" width="36" height="36" alt="Rainmeter" />
-</p>
- 
+    <img src="https://styles.redditmedia.com/t5_2s0bb/styles/communityIcon_fcl3bfotji421.png?width=256&v=enabled&s=e077490428a4fa44b2acb1348f6dbee9f46fc029" width="36" height="36" alt="Rainmeter" />
+  </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+<p>
+  
+  
+  
+  
+  
 ## Socials
 
 <p align="left"> <a href="https://www.github.com/guefra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
